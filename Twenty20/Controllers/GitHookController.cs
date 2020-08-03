@@ -12,6 +12,7 @@ namespace Twenty20.Controllers
         public async Task<IActionResult> Receive()
         {
             return Ok();
+            
         }
     }
 }
